@@ -1,0 +1,4 @@
+baseURL = "https://nahuumm.github.io/portafolio-/"
+languageCode = "es-mx"
+title = "Portafolio - Diego Nahum"
+theme = "ananke"
