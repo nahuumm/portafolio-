@@ -1,4 +1,22 @@
 baseURL = "https://nahuumm.github.io/portafolio-/"
 languageCode = "es-mx"
-title = "Portafolio - Diego Nahum"
-theme = "ananke"
+title = "Diego Nahum | Portafolio"
+theme = "gokarna"
+defaultContentLanguage = "es"
+
+[params]
+  description = "Portafolio de prácticas - Paradigmas de la Programación | UABC"
+  avatar = ""
+  avatarDescription = "Diego Nahum"
+  showPostsOnHomePage = "popular"
+  footer = "Diego Nahum Nuñez García · UABC 2026"
+
+[menu]
+  [[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Prácticas"
+    url = "/posts/"
+    weight = 2
