@@ -1,5 +1,5 @@
 baseURL = "https://nahuumm.github.io/portafolio-/"
-languageCode = "es-mx"
+locale = "es-mx"
 title = "Diego Nahum | Portafolio"
 theme = "gokarna"
 
@@ -11,7 +11,10 @@ theme = "gokarna"
   enableGitalk = false
   author = "Diego Nahum"
   authorDescription = "Estudiante UABC - Paradigmas de la Programación"
-  socialIcons = true
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/nahuumm"
 
 [menu]
   [[menu.main]]
