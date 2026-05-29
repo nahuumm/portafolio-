@@ -9,6 +9,9 @@ theme = "gokarna"
   footer = "Diego Nahum Nuñez García · UABC 2026"
   metaKeywords = ["portfolio", "haskell", "programacion", "uabc"]
   enableGitalk = false
+  author = "Diego Nahum"
+  authorDescription = "Estudiante UABC - Paradigmas de la Programación"
+  socialIcons = true
 
 [menu]
   [[menu.main]]
