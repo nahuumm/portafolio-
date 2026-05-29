@@ -5,7 +5,7 @@ theme = "gokarna"
 
 [params]
   description = "Portafolio de prácticas - Paradigmas de la Programación | UABC"
-  showPostsOnHomePage = "all"
+  showPostsOnHomePage = "recent"
   footer = "Diego Nahum Nuñez García · UABC 2026"
   metaKeywords = ["portfolio", "haskell", "programacion", "uabc"]
   enableGitalk = false
